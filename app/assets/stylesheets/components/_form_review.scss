@@ -1,0 +1,10 @@
+.review {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 16px;
+}
+
+.form-review {
+  background-color: white;
+  padding: 5px;
+}

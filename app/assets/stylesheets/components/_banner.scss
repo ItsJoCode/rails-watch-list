@@ -3,6 +3,7 @@
   background-position: center;
   padding: 150px 0;
   margin-bottom: 20px;
+  position: relative;
 }
 
 .banner h1 {
@@ -24,4 +25,10 @@
   align-items: center;
   opacity: .7;
   text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+}
+
+.banner a {
+  position: absolute;
+  right: 0px;
+  top: -16px;
 }
